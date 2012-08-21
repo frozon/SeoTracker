@@ -25,6 +25,7 @@ Gem::Specification.new do |s|
     "VERSION",
     "lib/seotracker.rb",
     "lib/seotracker/google.rb",
+    "lib/seotracker/bing.rb",
     "lib/seotracker/yandex.rb",
     "lib/seotracker/yandex/direct.rb",
     "seotracker.gemspec",

@@ -72,3 +72,4 @@ end
 require 'seotracker/yandex'
 require 'seotracker/yandex/direct'
 require 'seotracker/google'
+require 'seotracker/bing'
